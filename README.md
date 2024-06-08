@@ -1,5 +1,5 @@
-## Hi there 👋 Getachew Abebe Agegnehu
-# A Passionated ML Engineer, Gen AI Engineer, Data Engineer From Ethiopia 
+# Hi there 👋 Getachew Abebe Agegnehu
+## A Passionated ML Engineer, Gen AI Engineer, Data Engineer From Ethiopia 
 
 <!--
 **GetachewAbebe/GetachewAbebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
