@@ -1,4 +1,4 @@
-# Hi there 👋 Getachew Abebe Agegnehu
+# Hi there, I am Getachew Abebe Agegnehu
 ## A Passionated ML Engineer, Gen AI Engineer, Data Engineer From Ethiopia 
 
 <!--
