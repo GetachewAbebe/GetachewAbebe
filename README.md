@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GetachewAgegnehu's GitHub | Stats](https://stats.quira.sh/GetachewAgegnehu/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GetachewAgegnehu)
-[![GetachewAgegnehu's GitHub | Topics Over Time](https://stats.quira.sh/GetachewAgegnehu/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GetachewAgegnehu)
-[![GetachewAgegnehu's GitHub | Languages Over Time](https://stats.quira.sh/GetachewAgegnehu/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GetachewAgegnehu)
