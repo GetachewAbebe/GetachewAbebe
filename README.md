@@ -53,8 +53,8 @@
 <img src="https://img.shields.io/badge/-MySql-000000?style=flat&logo=mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=white"/> 
-
 <br />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=getachewagegnehu&show_icons=true&locale=en&layout=compact" alt="Getachew" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=getachewagegnehu&show_icons=true&locale=en" alt="Getachew" /></p>
