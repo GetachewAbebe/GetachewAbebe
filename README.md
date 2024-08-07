@@ -5,17 +5,23 @@
 
 ![](https://komarev.com/ghpvc/?username=your-getachewagegnehu&color=0069b4)
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2> 💻 &nbsp;About Me </h2>
+      <br>
+      <blockquote>
+        <p> 
+          Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and prompt engineering.  
+          <br>
+          Experienced in Mechatronics, Data Science, and Machine Learning.
+          <br>
+          Constantly pushing boundaries to solve complex challenges and enhance system performances.
+          <br>
+        </p>
+      </blockquote>
+       <ul>
+        <li>👩‍💻 &nbsp; Generative AI Engineer </li>
+        <li>🎓 &nbsp; B.Sc of Mechatronics Engineering </li>
+        <li>📚 &nbsp; ALX Software Engineer </li>
+        <li>🤔 &nbsp; Interested in Robotics </li>
 
 ## ✉️ Find Me On:
 
