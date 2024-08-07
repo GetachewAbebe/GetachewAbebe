@@ -34,26 +34,25 @@
 <br />
 
 ### Tech Stack
-<p>
+
 #### Programming Languages
 <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=white"/> </p>
-<p>
+<img src="https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=white"/> 
+
 #### Web Development
 <img src="https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/> </p>
-<p>
-#### Tools
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/> 
 
+#### Tools
 <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-MySql-000000?style=flat&logo=mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=white"/> </p>
+<img src="https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=white"/> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=getachewagegnehu&show_icons=true&locale=en&layout=compact" alt="Getachew" /></p>
 
