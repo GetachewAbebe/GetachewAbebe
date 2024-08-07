@@ -54,9 +54,15 @@
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/> 
 </p>
 
-### Tools
+### Tools and Libraries
 
 <p>
+  <img src="https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kafka-000000?style=flat&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Hadoop-000000?style=flat&logo=apache-hadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Airflow-000000?style=flat&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white"/> 
