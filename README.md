@@ -6,8 +6,8 @@
 
 ## 💻 About Me
 
-> Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and prompt engineering.  
-> Experienced in Artificial Intelligence, Data Science, and Machine Learning.
+> Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and prompt engineering. Experienced in Artificial Intelligence, Data Science, and Machine Learning.
+
 ### Professional Experience
 
 - 👩‍💻 &nbsp; **Generative AI Engineer**
