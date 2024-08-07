@@ -1,4 +1,6 @@
 
+[![MasterHead](https://github.com/getachewagegnehu/getachewagegnehu/blob/main/getachewbanner.jpeg)]
+
 # Hi there, I am Getachew A. Agegnehu
 ## A Passionated Gen AI Engineer, ML Engineer, Data Engineer From Ethiopia 
 
@@ -15,13 +17,11 @@ Here are some ideas to get you started:
 
 ## ✉️ Find Me On:
 
-
 <p align="center">
  <a href="https://linkedin.com/in/getachewagegnehu" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://medium.com/@GetachewAgegnehu" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:gechachin@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
 <br />
 
 ## 🧰 Languages and Tools:
