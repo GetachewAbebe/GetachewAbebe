@@ -33,50 +33,26 @@
 </p>
 <br />
 
-## 🧰 Languages and Tools:
-   <li>
-        <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
-        <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
-        <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-        <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-        <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"/>
-        <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
-        <img src="https://img.shields.io/badge/-LaTEX-05122A?style=flat&logo=latex"/>
-      </li>
-      <li>
-        <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=fastapi"/>
-        <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
-        <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
-      </li>
-      <li>
-        <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab"/>
-        <img src="https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave"/>  
-      </li>
-      <li>
-        <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-        <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
-        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-        <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
-        <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
-      </li>
-      <li>
-        <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
-        <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-        <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-        <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
-      </li>
-      <li>
-        <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-        <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
-      </li>
-      <li>
-        <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
-        <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>
-        <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-        <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter"/>
-        <img src="https://img.shields.io/badge/-Google Colab-05122A?style=flat&logo=googlecolab"/>
-      </li>
+### Tech Stack
 
+#### Programming Languages
+<img src="https://img.shields.io/badge/-C-FFFFFF?style=flat&logo=C"/> 
+<img src="https://img.shields.io/badge/-C++-FFFFFF?style=flat&logo=C%2B%2B"/> 
+<img src="https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=java"/> 
+<img src="https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python"/> 
+<img src="https://img.shields.io/badge/-R-FFFFFF?style=flat&logo=R&logoColor=276DC3"/> 
+
+#### Web Development
+<img src="https://img.shields.io/badge/-Spring-FFFFFF?style=flat&logo=spring"/> 
+<img src="https://img.shields.io/badge/-Django-FFFFFF?style=flat&logo=django"/> 
+<img src="https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=flask"/> 
+
+#### Tools
+<img src="https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux"/> 
+<img src="https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git"/> 
+<img src="https://img.shields.io/badge/-MySql-FFFFFF?style=flat&logo=mysql"/> 
+<img src="https://img.shields.io/badge/-SQLite-FFFFFF?style=flat&logo=sqlite"/> 
+<img src="https://img.shields.io/badge/-VS%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC"/> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=getachewagegnehu&show_icons=true&locale=en&layout=compact" alt="Getachew" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=getachewagegnehu&show_icons=true&locale=en" alt="Getachew" /></p>
