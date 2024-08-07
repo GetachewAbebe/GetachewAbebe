@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/getachewagegnehu/getachewagegnehu/blob/main/getachewbanner.jpeg)]
+![MasterHead](https://github.com/getachewagegnehu/getachewagegnehu/blob/main/getachewbanner.jpeg)
 
 # Hi there, I am Getachew A. Agegnehu
 ## A Passionated Gen AI Engineer, ML Engineer, Data Engineer From Ethiopia 
