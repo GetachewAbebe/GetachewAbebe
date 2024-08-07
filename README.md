@@ -36,39 +36,19 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=white"/> 
-</p>
-
-### Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/> 
-</p>
-
-### Tools and Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kafka-000000?style=flat&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Hadoop-000000?style=flat&logo=apache-hadoop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Airflow-000000?style=flat&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=white"/> 
-</p>
+| Programming Languages | Web Development | Tools and Libraries |
+|-----------------------|-----------------|---------------------|
+| <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=white"/>  | <img src="https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=white"/> | <img src="https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=white"/> | <img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=white"/> | <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=white"/> | <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/> | <img src="https://img.shields.io/badge/-Kafka-000000?style=flat&logo=apache-kafka&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white"/> | | <img src="https://img.shields.io/badge/-Hadoop-000000?style=flat&logo=apache-hadoop&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=white"/> | | <img src="https://img.shields.io/badge/-Airflow-000000?style=flat&logo=apache-airflow&logoColor=white"/> |
+|  |  | <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white"/> |
+|  |  | <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white"/> |
+|  |  | <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white"/> |
+|  |  | <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white"/> |
+|  |  | <img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=white"/> |
+|  |  | <img src="https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=white"/> |
 
 ## 📊 GitHub Stats
 
