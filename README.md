@@ -19,14 +19,14 @@
       </blockquote>
        <ul>
         <li>👩‍💻 &nbsp; Generative AI Engineer </li>
-        <li>🎓 &nbsp; B.Sc of Mechatronics Engineering </li>
-        <li>📚 &nbsp; ALX Software Engineer </li>
-        <li>🤔 &nbsp; Interested in Robotics </li>
+        <li>🎓 &nbsp; MSc of Information Systems </li>
+        <li>📚 &nbsp; 10 Academy Traineee </li>
+        <li>🤔 &nbsp; Interested in Gen AI </li>
 
 ## ✉️ Find Me On:
 
 <p align="center">
- <a href="https://linkedin.com/in/getachewagegnehu" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/getachewagegnehu" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linked-in-alt.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://medium.com/@GetachewAgegnehu" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:gechachin@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
