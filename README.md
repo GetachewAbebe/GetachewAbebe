@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/getachewagegnehu/getachewagegnehu/blob/main/getachewbanner.jpeg)
 
-# Hi there, I am Getachew Agegnehu
+# Hi there, I am Getachew A. Agegnehu
 
 ![](https://komarev.com/ghpvc/?username=your-getachewagegnehu&color=0069b4)
 
