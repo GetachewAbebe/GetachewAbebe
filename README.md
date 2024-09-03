@@ -1,8 +1,8 @@
-![MasterHead](https://github.com/getachewagegnehu/getachewagegnehu/blob/main/getachewbanner.jpeg)
+![MasterHead](https://github.com/getachewabebe/getachewabebe/blob/main/getachew_banner.jpeg)
 
 # Hi there, I am Getachew A. Agegnehu
 
-![](https://komarev.com/ghpvc/?username=your-getachewagegnehu&color=0069b4)
+![](https://komarev.com/ghpvc/?username=your-getachewabebe&color=0069b4)
 
 ## 💻 About Me
 
@@ -17,13 +17,13 @@
 ## ✉️ Find Me On:
 
 <p align="center">
-  <a href="https://linkedin.com/in/getachewagegnehu" target="blank">
+  <a href="https://linkedin.com/in/getachewabebe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/getachewagegnehu" target="blank">
+  <a href="https://www.leetcode.com/getachewabebe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@getachewagegnehu" target="blank">
+  <a href="https://medium.com/@getachewabebe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
   <a href="mailto:gechachin@gmail.com" target="blank">
