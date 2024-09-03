@@ -23,7 +23,7 @@
       </blockquote>
        <ul>
         <li>👩‍💻 &nbsp; Generative AI Engineer </li>
-        <li>🎓 &nbsp; MSc of Information Systems </li>
+        <li>🎓 &nbsp; MSc in Information Systems </li>
         <li>📚 &nbsp; 10 Academian </li>
         <li>🤔 &nbsp; Interested in AI Implementations </li>
        </ul>
