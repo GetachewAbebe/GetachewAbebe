@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/getachewabebe/getachewabebe/blob/main/getachew_banner.jpeg)
+![MasterHead](https://github.com/getachewabebe/getachewabebe/blob/main/getachew_banner.png)
 
 # Hi there, I am Getachew A. Agegnehu
 
@@ -70,13 +70,13 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=getachewagegnehu&show_icons=true&locale=en&layout=compact" alt="Getachew's Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=getachewabebe&show_icons=true&locale=en&layout=compact" alt="Getachew's Top Languages" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=getachewagegnehu&show_icons=true&locale=en" alt="Getachew's GitHub Stats" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=getachewabebe&show_icons=true&locale=en" alt="Getachew's GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getachewagegnehu&" alt="Getachew's GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getachewabebe&" alt="Getachew's GitHub Streak" />
 </p>
