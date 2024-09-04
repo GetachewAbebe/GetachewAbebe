@@ -56,22 +56,15 @@
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <ul>
       <li>
-        <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
         <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
         <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
         <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
         <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"/>
         <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
-        <img src="https://img.shields.io/badge/-LaTEX-05122A?style=flat&logo=latex"/>
       </li>
       <li>
-        <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=fastapi"/>
         <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
         <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
-      </li>
-      <li>
-        <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab"/>
-        <img src="https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave"/>  
       </li>
       <li>
         <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
