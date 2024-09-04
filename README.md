@@ -13,11 +13,11 @@
       <br>
       <blockquote>
         <p> 
-          Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and prompt engineering.  
+          Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and Prompt Engineering.  
           <br>
-          Experienced in Mechatronics, Data Science, and Machine Learning.
+          Experienced in Intelligent Systems Research, Machine Learning and Data Science.
           <br>
-          Constantly pushing boundaries to solve complex challenges and enhance system performances.
+          Always eager to collaborate on AI projects and discover new technological horizons.
           <br>
         </p>
       </blockquote>
