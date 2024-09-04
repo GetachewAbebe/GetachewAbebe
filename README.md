@@ -83,7 +83,6 @@
         <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
         <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
         <img src="https://img.shields.io/badge/-Docker -05122A?style=flat&logo=docker"/>
-
       </li>
       <li>
         <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
