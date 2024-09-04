@@ -1,9 +1,7 @@
 
 ![Banner Image](https://github.com/GetachewAbebe/GetachewAbebe/blob/main/getachew_banner.png)
 
-### Hi there 👋
-
-## I'm Getachew Abebe
+### Hi There 👋 I'm Getachew Abebe
 ![](https://komarev.com/ghpvc/?username=your-GetachewAbebe&color=0069b4)
 
 <table width="100%">
@@ -32,7 +30,7 @@
     <td width="45%">
      <p align="center">
       <a href="https://github.com/GetachewAbebe">
-       <img src="https://github.com/Taabannn/Taabannn/blob/main/images/middle_banner.jpeg"/>
+       <img src="https://github.com/GetachewAbebe/GetachewAbebe/blob/main/banner.png"/>
       </a>
      </p>
     </td>
