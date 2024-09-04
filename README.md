@@ -121,3 +121,23 @@
    </td>
   </tr>
 </table>
+
+## 🚀 Current Focus
+
+- Exploring advanced techniques in Generative AI
+- Developing innovative ML models for real-world applications
+- Enhancing skills in computer vision and deep learning
+- Contributing to open-source AI projects
+
+## 🎯 Future Goals
+
+- Contribute to groundbreaking AI research
+- Develop AI solutions that positively impact society
+- Collaborate with global AI communities
+- Continuously learn and adapt to emerging AI technologies
+
+---
+
+<p align="center">
+  <i>Let's connect and create amazing AI-powered solutions together!</i>
+</p>
