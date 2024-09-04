@@ -32,7 +32,7 @@
     <td width="45%">
      <p align="center">
       <a href="https://github.com/GetachewAbebe">
-       <img src="https://github.com/Taabannn/Taabannn/blob/main/images/Middle_banner.jpeg"/>
+       <img src="https://github.com/Taabannn/Taabannn/blob/main/images/middle_banner.jpeg"/>
       </a>
      </p>
     </td>
