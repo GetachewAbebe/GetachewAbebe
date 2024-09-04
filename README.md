@@ -101,22 +101,19 @@
    </td>
    <td width="45%">
     <div align="center">
-      <h2><b>How to Reach Me</b></h2>
+      <h2><b>Connect with Me</b></h2>
       <br>
-      <p>Please don't hesitate to contact me 
-        <br>if you need further information or help.
-      </p>
+      <p>Let's connect and discuss exciting AI projects!</p>
       <br>
-      <a href="mailto:gechachin@gmail.com" >
-      <img align="center" alt="Getachew Abebe | Email" width="30em" src="https://img.icons8.com/color/email.png" />
+      <a href="mailto:gechachin@gmail.com">
+        <img align="center" alt="Getachew Abebe | Email" width="30em" src="https://img.icons8.com/color/48/000000/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://medium.com/@GetachewAbebe" >
-      <img align="center" alt="Getachew Abebe | Medium" width="30em" src="https://img.icons8.com/color/medium.png" />
+      <a href="https://linkedin.com/in/getachewabebea">
+        <img align="center" alt="Getachew Abebe | LinkedIn" width="30em" src="https://img.icons8.com/color/48/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/getachewabebea" >
-      <img align="center" alt="Getachew Abebe | LinkedIn" width="30em" src="https://img.icons8.com/color/linkedin.png" />
-      </a> &nbsp;&nbsp;
-      <br>
+      <a href="https://medium.com/@getachewabebe">
+        <img align="center" alt="Getachew Abebe | Medium" width="30em" src="https://img.icons8.com/color/48/000000/medium-monogram.png" />
+      </a>
     </div>
    </td>
   </tr>
