@@ -82,6 +82,8 @@
       <li>
         <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
         <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
+        <img src="https://img.shields.io/badge/-Docker -05122A?style=flat&logo=docker"/>
+
       </li>
       <li>
         <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
@@ -89,7 +91,6 @@
         <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
         <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter"/>
         <img src="https://img.shields.io/badge/-Google Colab-05122A?style=flat&logo=googlecolab"/>
-        <img src="https://img.shields.io/badge/-Docker -05122A?style=flat&logo=docker"/>
       </li>
      </ul>
    </td>
