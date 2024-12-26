@@ -1,17 +1,22 @@
-
-![Banner Image](https://github.com/GetachewAbebe/GetachewAbebe/blob/main/getachew_banner.png)
-
-### Hi There 👋 I'm Getachew Abebe
-![](https://komarev.com/ghpvc/?username=your-GetachewAbebe&color=0069b4)
-
 <table width="100%">
+  <tr>
+    <td colspan="2">
+      <h3>Hi There 👋 I'm Getachew Abebe</h3>
+      ![](https://komarev.com/ghpvc/?username=your-GetachewAbebe&color=0069b4)
+      <p align="center">
+        <a href="https://github.com/GetachewAbebe">
+         <img width="30%" src="https://github.com/GetachewAbebe/GetachewAbebe/blob/main/banner.png"/>
+        </a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="55%">
       <h2> 💻 &nbsp;About Me </h2>
       <br>
       <blockquote>
-        <p> 
-          Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and Prompt Engineering.  
+        <p>
+          Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and Prompt Engineering.
           <br>
           Experienced in Intelligent Systems Research, Machine Learning and Data Science.
           <br>
@@ -28,12 +33,7 @@
        <br>
     </td>
     <td width="45%">
-     <p align="center">
-      <a href="https://github.com/GetachewAbebe">
-       <img src="https://github.com/GetachewAbebe/GetachewAbebe/blob/main/banner.png"/>
-      </a>
-     </p>
-    </td>
+     </td>
   </tr>
   <tr>
     <td width="55%">
@@ -110,23 +110,3 @@
    </td>
   </tr>
 </table>
-
-## 🚀 Current Focus
-
-- Exploring advanced techniques in Generative AI
-- Developing innovative ML models for real-world applications
-- Enhancing skills in computer vision and deep learning
-- Contributing to open-source AI projects
-
-## 🎯 Future Goals
-
-- Contribute to groundbreaking AI research
-- Develop AI solutions that positively impact society
-- Collaborate with global AI communities
-- Continuously learn and adapt to emerging AI technologies
-
----
-
-<p align="center">
-  <i>Let's connect and create amazing AI-powered solutions together!</i>
-</p>
