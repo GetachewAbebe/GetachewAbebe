@@ -1,5 +1,5 @@
 
-![Banner Image](https://github.com/GetachewAbebe/GetachewAbebe/blob/main/banner.png)
+![Banner Image](https://github.com/GetachewAbebe/GetachewAbebe/blob/main/getachew_banner.png)
 
 ### Hi There 👋 I'm Getachew Abebe
 ![](https://komarev.com/ghpvc/?username=your-GetachewAbebe&color=0069b4)
