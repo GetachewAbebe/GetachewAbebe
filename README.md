@@ -6,7 +6,6 @@
 
 <table width="100%">
   <tr>
-    <td width="55%">
       <h2> 💻 &nbsp;About Me </h2>
       <br>
       <blockquote>
@@ -26,7 +25,6 @@
         <li>🤔 &nbsp; Interested in AI Implementations </li>
        </ul>
        <br>
-    </td>
   </tr>
   <tr>
     <td width="55%">
