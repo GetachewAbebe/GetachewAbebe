@@ -36,7 +36,7 @@
     <td width="45%">
       <p align="center">
         <br>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetachewAbebe&theme=algolia&layout=compact"/>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GetachewAbebe&show_icons=true&locale=en&layout=compact&theme=algolia"/>
       </p>
     </td>
   </tr>
