@@ -33,12 +33,12 @@
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GetachewAbebe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       </p>
     </td>
-<!--     <td width="45%">
+    <td width="45%">
       <p align="center">
         <br>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetachewAbebe&theme=algolia&layout=compact"/>
       </p>
-    </td> -->
+    </td>
   </tr>
   <tr>
    <td width="55%">
