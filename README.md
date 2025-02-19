@@ -10,7 +10,7 @@
       <br>
       <blockquote>
         <p> 
-          Machine Learning/Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and Prompt Engineering.  
+          Machine Learning Engineer/Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and Prompt Engineering.  
           <br>
           Experienced in Intelligent Systems Research, Machine Learning and Data Science.
           <br>
