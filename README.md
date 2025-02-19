@@ -1,8 +1,8 @@
 
-![Banner Image](https://github.com/GetachewAbebe/GetachewAbebe/blob/main/getachew_banner.png)
+![Banner Image](https://github.com/GetachewAbebe/GetachewAbebe/blob/main/banner.png)
 
 ### Hi There 👋 I'm Getachew Abebe
-![](https://komarev.com/ghpvc/?username=your-GetachewAbebe&color=0069b4)
+![](https://komarev.com/ghpvc/?username=GetachewAbebe&color=0069b4)
 
 <table width="100%">
   <tr>
@@ -10,7 +10,7 @@
       <br>
       <blockquote>
         <p> 
-          Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and Prompt Engineering.  
+          Machine Learning/Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and Prompt Engineering.  
           <br>
           Experienced in Intelligent Systems Research, Machine Learning and Data Science.
           <br>
@@ -19,8 +19,8 @@
         </p>
       </blockquote>
        <ul>
-        <li>👩‍💻 &nbsp; Generative AI Engineer </li>
-        <li>🎓 &nbsp; MSc in Information Systems </li>
+        <li>👩‍💻 &nbsp; Machine Learning Engineer | AI Engineer </li>
+        <li>🎓 &nbsp; Msc in Information Systems </li>
         <li>📚 &nbsp; 10 Academian </li>
         <li>🤔 &nbsp; Interested in AI Implementations </li>
        </ul>
