@@ -10,11 +10,7 @@
       <br>
       <blockquote>
         <p> 
-          Machine Learning Engineer/Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and Prompt Engineering.  
-          <br>
-          Experienced in Intelligent Systems Research, Machine Learning and Data Science.
-          <br>
-          Always eager to collaborate on AI projects and discover new technological horizons.
+AI/ML Engineer specializing in fine-tuning LLMs, developing RAG systems, and prompt engineering. With a year of Intelligent Systems research experience, I've led 3 projects integrating machine learning models (CNNs, Transformers) with Apache Spark and AWS S3, delivering solutions like crop disease detection systems achieving 95% accuracy. Proficient in Python, TensorFlow, and PyTorch, I focus on building impactful AI applications at the intersection of machine learning and data engineering. Open to collaborating on innovative AI challenges!
           <br>
         </p>
       </blockquote>
